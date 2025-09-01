@@ -1,53 +1,71 @@
-<h1 align="center">
-  Hey 👋, I'm Om Kadam
-</h1>
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Kadam+👋;Welcome+to+my+GitHub+Profile!;I+love+DSA+%26+Full+Stack+Development;Check+out+my+VisuAlgo+Project!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Passionate+Coder;Loves+Problem+Solving;Building+VisuAlgo;Always+Learning+New+Things" alt="Typing Animation" />
-</p>
+---
 
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmKadam989&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Om%20Kadam&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
 
 ---
 
-### 🚀 About Me  
-- 💻 I’m learning **DSA & Full-Stack Development**  
-- 🎯 Currently building **[VisuAlgo](https://github.com/OmKadam989/VisuAlgo)**  
-- 🧩 I do coding because **I love solving problems**  
-- 🌱 Always curious and **exploring new technologies**  
+## 👨‍💻 About Me
+- 🔭 Working on **[VisuAlgo](https://github.com/OmKadam989/VisuAlgo)** → algorithm visualizer  
+- 🌱 Learning **DSA & Full-Stack Development**  
+- ⚡ Fun fact: I can explain sorting with animations 🎥  
+- 📫 Reach me at: **omkadam84129@gmail.com**
 
 ---
 
-### 🐍 Contribution Snake  
+## 🚀 Featured Project
+<p align="center">
+  <a href="https://github.com/OmKadam989/VisuAlgo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmKadam989&repo=VisuAlgo&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+> **VisuAlgo** – A collection of interactive visualizations and animations for classic sorting & graph algorithms (Bubble Sort, Insertion Sort, Merge Sort, QuickSort, DFS, BFS, Dijkstra’s, and more).  
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmKadam989&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmKadam989&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKadam989&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🔧 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📈 Contribution Graph Animation
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmKadam989&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/OmKadam989/OmKadam989/output/snake.svg)
 
+
 ---
 
-### 🔥 GitHub Streak Stats  
+## ✨ Fun Animation
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmKadam989&theme=radical&hide_border=true&background=00000000&fire=FF69B4&ring=FFD700&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=FF69B4&dates=AAAAAA" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
 ---
 
-### 📊 GitHub Stats & Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmKadam989&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKadam989&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
-### 🌈 Contribution Graph Animation  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmKadam989&theme=react-dark&bg_color=000000&color=00F7F7&line=FF69B4&point=FFD700&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### ⚡ Fun Animation  
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=OmKadam989&theme=radical&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
-</p>
+💡 *Thanks for visiting my profile!* 🚀
