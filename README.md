@@ -8,8 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmKadam989&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/OmKadam989?label=🙌%20Followers&style=for-the-badge&color=blueviolet" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/OmKadam989?label=⭐%20Stars&style=for-the-badge&color=gold" alt="GitHub stars" />
 </p>
 
 ---
