@@ -1,70 +1,46 @@
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Kadam+👋;Welcome+to+my+GitHub+Profile!;I+love+DSA+%26+Full+Stack+Development;Check+out+my+VisuAlgo+Project!)](https://git.io/typing-svg)
+# 👋 Hi, I’m Om Kadam  
+
+💻 I write code because I **enjoy solving problems** and creating things.  
+🚀 Currently working on **[VisuAlgo](https://github.com/OmKadam989/VisuAlgo)** – interactive algorithm visualizations.  
+🌱 Always learning and experimenting with new technologies.  
 
 ---
 
-<!-- Animated Banner -->
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Om%20Kadam&fontAlign=50&fontAlignY=40&color=gradient" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working on **[VisuAlgo](https://github.com/OmKadam989/VisuAlgo)** → algorithm visualizer  
-- 🌱 Learning **DSA & Full-Stack Development**  
-- ⚡ Fun fact: I can explain sorting with animations 🎥  
-- 📫 Reach me at: **omkadam84129@gmail.com**
+## 📌 Featured Project
+🔹 **[VisuAlgo](https://github.com/OmKadam989/VisuAlgo)**  
+A visual tool for understanding algorithm flow and behavior.  
+Includes interactive animations for **Bubble Sort, Insertion Sort, Merge Sort, Quicksort, DFS, BFS, Dijkstra’s algorithm** and more.  
 
 ---
 
-## 🚀 Featured Project
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/OmKadam989/VisuAlgo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmKadam989&repo=VisuAlgo&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
-
-> **VisuAlgo** – A collection of interactive visualizations and animations for classic sorting & graph algorithms (Bubble Sort, Insertion Sort, Merge Sort, QuickSort, DFS, BFS, Dijkstra’s, and more).  
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmKadam989&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmKadam989&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmKadam989&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OmKadam989&show_icons=true&theme=tokyonight" alt="Om's GitHub stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=OmKadam989&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔧 Tech Stack
+## 🌐 Let’s Connect
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,git,github,vscode" />
-</p>
-
----
-
-## 📈 Contribution Graph Animation
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmKadam989&theme=react-dark&hide_border=true&area=true" />
+  <a href="mailto:omkadam84129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/omkadam989"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/OmKadam989"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/OmKadam989/OmKadam989/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/OmKadam989/OmKadam989/output/snake.svg)
 
 ---
 
-## ✨ Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
----
-
-💡 *Thanks for visiting my profile!* 🚀
+✨ *“Coding is not just a skill, it’s my way of thinking and creating.”*
