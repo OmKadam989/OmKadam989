@@ -4,16 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmKadam989&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/OmKadam989?label=🙌%20Followers&style=for-the-badge&color=blueviolet" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/OmKadam989?label=⭐%20Stars&style=for-the-badge&color=gold" alt="GitHub stars" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmKadam989&theme=radical&hide_border=true&background=00000000&fire=FF69B4&ring=FFD700&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=FF69B4&dates=AAAAAA" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -21,6 +11,15 @@
 - 🌱 Currently learning **DSA** and **Full Stack Development**  
 - 🛠 Working on my project [**VisuAlgo**](https://github.com/OmKadam989/VisuAlgo)  
 - 🎯 Always curious and exploring new things  
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmKadam989&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmKadam989&theme=radical&hide_border=true&background=00000000&fire=FF69B4&ring=FFD700&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=FF69B4&dates=AAAAAA" alt="GitHub Streak" />
+</p>
 
 ---
 
