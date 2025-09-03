@@ -25,13 +25,6 @@
 
 ---
 
-### 🔥 GitHub Streak Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmKadam989&theme=radical&hide_border=true&background=00000000&fire=FF69B4&ring=FFD700&currStreakLabel=00F7F7&sideNums=00F7F7&currStreakNum=FF69B4&dates=AAAAAA" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📊 GitHub Stats & Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmKadam989&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
