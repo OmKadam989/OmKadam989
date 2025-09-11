@@ -40,7 +40,4 @@
 
 ---
 
-### ⚡ Fun Animation  
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=OmKadam989&theme=radical&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
-</p>
+
